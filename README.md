@@ -1,6 +1,6 @@
 # node-unblocker-heroku
 
-##Setup:
+## Setup:
 
 1. Fork this repo
 2. Press the "Deploy to Heroku" button below.
@@ -11,7 +11,7 @@ This is technically against ToS and while the rules aren't really enforced on He
 
 Contact me if you want: fistonal@protonmail.com
 
-##Deploy
+## Deploy
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
