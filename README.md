@@ -24,5 +24,3 @@ Contact me if you want: fistonal@protonmail.com
 
 Special thanks to:
 https://github.com/nfriedly - Developer of the original source code for this project
-=======
->>>>>>> 81df326d1a6435bbd1afeb8364e692b9950529b5
